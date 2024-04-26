@@ -1,0 +1,571 @@
+2024-04-26 11:55:35.283 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:55:35.284 | INFO     | __main__:send_tx:101 - Signature: L6LK14mRW66Mjgx38rRExmBpdbfVUG9MCuBc5UB1FjFCAxKhvWYQQK7gtQX4oVsfZVn1oDb1876uVjnj8oxswy7
+2024-04-26 11:55:35.284 | INFO     | __main__:send_tx:102 - SWAP: 21.14685953899999
+2024-04-26 11:55:35.286 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='4Emy8wxucNacn17qPH9zrNYigXshB5XTeM6U56BLMapP'
+2024-04-26 11:55:35.286 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:55:35
+2024-04-26 11:55:40.882 | ERROR    | src.userbot.handlers:on_new_message_from_second_channel:55 - Can't find token in message text from SECOND channel.
+2024-04-26 11:56:03.230 | SUCCESS  | src.storage.database:add_token:92 - New token (ANJZtGV5X9yV22bFs2x23TzWdu9ZBa3caoTEuRwVi646) was successfuly inserted to database.
+2024-04-26 11:56:03.425 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 21
+2024-04-26 11:56:04.590 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:56:04.591 | INFO     | __main__:send_tx:101 - Signature: L6LK14mRW66Mjgx38rRExmBpdbfVUG9MCuBc5UB1FjFCAxKhvWYQQK7gtQX4oVsfZVn1oDb1876uVjnj8oxswy7
+2024-04-26 11:56:04.592 | INFO     | __main__:send_tx:102 - SWAP: 21.14685953899999
+2024-04-26 11:56:04.593 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='ANJZtGV5X9yV22bFs2x23TzWdu9ZBa3caoTEuRwVi646'
+2024-04-26 11:56:04.593 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:56:04
+2024-04-26 11:56:07.588 | SUCCESS  | src.storage.database:add_token:92 - New token (ANJZtGV5X9yV22bFs2x23TzWdu9ZBa3caoTEuRwVi646) was successfuly inserted to database.
+2024-04-26 11:56:13.439 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 23
+2024-04-26 11:56:14.503 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:56:14.505 | INFO     | __main__:send_tx:101 - Signature: L6LK14mRW66Mjgx38rRExmBpdbfVUG9MCuBc5UB1FjFCAxKhvWYQQK7gtQX4oVsfZVn1oDb1876uVjnj8oxswy7
+2024-04-26 11:56:14.505 | INFO     | __main__:send_tx:102 - SWAP: 21.14685953899999
+2024-04-26 11:56:14.506 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='ANJZtGV5X9yV22bFs2x23TzWdu9ZBa3caoTEuRwVi646'
+2024-04-26 11:56:14.507 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:56:14
+2024-04-26 11:56:19.017 | ERROR    | src.userbot.handlers:on_new_message_from_second_channel:55 - Can't find token in message text from SECOND channel.
+2024-04-26 11:56:39.077 | SUCCESS  | src.storage.database:add_token:92 - New token (9n7JseCynEJhzLtzNVrrsC4jHt74TGdSg1NSZWi3NSm2) was successfuly inserted to database.
+2024-04-26 11:56:42.128 | SUCCESS  | src.storage.database:add_token:92 - New token (9n7JseCynEJhzLtzNVrrsC4jHt74TGdSg1NSZWi3NSm2) was successfuly inserted to database.
+2024-04-26 11:56:43.052 | ERROR    | src.userbot.handlers:on_new_message_from_second_channel:55 - Can't find token in message text from SECOND channel.
+2024-04-26 11:56:43.463 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 25
+2024-04-26 11:56:48.936 | ERROR    | src.userbot.handlers:on_new_message_from_second_channel:55 - Can't find token in message text from SECOND channel.
+2024-04-26 11:56:59.195 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='9n7JseCynEJhzLtzNVrrsC4jHt74TGdSg1NSZWi3NSm2'
+2024-04-26 11:56:59.196 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:56:59
+2024-04-26 11:57:04.689 | SUCCESS  | src.storage.database:add_token:92 - New token (C5RFp1fhNGdU2epHPk8nzDqGF1MBTF7VCJgYoDc5hCKL) was successfuly inserted to database.
+2024-04-26 11:57:08.141 | SUCCESS  | src.storage.database:add_token:92 - New token (C5RFp1fhNGdU2epHPk8nzDqGF1MBTF7VCJgYoDc5hCKL) was successfuly inserted to database.
+2024-04-26 11:57:13.500 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 27
+2024-04-26 11:57:16.490 | SUCCESS  | src.storage.database:add_token:92 - New token (HktQmdGNaKqbi8aawneDQrUUpLMcqvbTzs1QPFzV8hGu) was successfuly inserted to database.
+2024-04-26 11:57:17.875 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:17.875 | INFO     | __main__:send_tx:95 - Signature: 4tmxFTPBqjRWpUUjnL5NG7UsUyYWiJiJsWLkCnGN96XCkJiCcR36TvqsWjn8nWeDh8ERwBBdWtydUB6WPaudyc2Y
+2024-04-26 11:57:17.876 | INFO     | __main__:send_tx:96 - SWAP: 0.0005000000000006111
+2024-04-26 11:57:17.948 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:17.948 | INFO     | __main__:send_tx:95 - Signature: 4ykfvj1YMLaPvqJPLERFMp64PdEMF7nJLpmhqaw8CwQ9ogB5HVTQyCgk8HQa6RzTqrhgzVJQWMZ1zuKpauREDeMZ
+2024-04-26 11:57:17.949 | INFO     | __main__:send_tx:96 - SWAP: 0.00019999999999953388
+2024-04-26 11:57:18.284 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:18.284 | INFO     | __main__:send_tx:95 - Signature: 2D6iFDBzu3Zt4Ap2N9Tdb2opLbe4NyT8Vd52mLKTHTmZyqawdWem4e6mhWnNBUKd5xkBsqxZ8zo9iGcp7g5y2woW
+2024-04-26 11:57:18.285 | INFO     | __main__:send_tx:96 - SWAP: 1.000000000139778e-05
+2024-04-26 11:57:18.844 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:18.845 | INFO     | __main__:send_tx:95 - Signature: 4C3VfemKn4ECLrCTA6GNVRGgmjxJtgbdmWLQKZpNqRvMKNzpgyyYpQaCqLMgdxfG2bV1r5t1xszXGif8PYzxqypo
+2024-04-26 11:57:18.845 | INFO     | __main__:send_tx:96 - SWAP: 0.09899999999999842
+2024-04-26 11:57:19.179 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:19.179 | INFO     | __main__:send_tx:95 - Signature: 4udq9Fh6MPJrB3DBko3RhuG1XN3EULkcUnH5Gs2veL8zVd39W4dN5T78uwbQBkercekSEbcfReXiAaWKaHXaZRFj
+2024-04-26 11:57:19.180 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:57:19.183 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:19.183 | INFO     | __main__:send_tx:95 - Signature: 2RZd4QdKSHxnt4D4HznjxhHg8N7vs6hrayNnAfWoVEiqfVcxTFCqdaSwNxYkgaBY8VWbGsyZiwVqo4ghkESkqVej
+2024-04-26 11:57:19.184 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999621423e-06
+2024-04-26 11:57:19.410 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:19.411 | INFO     | __main__:send_tx:95 - Signature: 2RZd4QdKSHxnt4D4HznjxhHg8N7vs6hrayNnAfWoVEiqfVcxTFCqdaSwNxYkgaBY8VWbGsyZiwVqo4ghkESkqVej
+2024-04-26 11:57:19.411 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999621423e-06
+2024-04-26 11:57:19.428 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:19.429 | INFO     | __main__:send_tx:95 - Signature: 4udq9Fh6MPJrB3DBko3RhuG1XN3EULkcUnH5Gs2veL8zVd39W4dN5T78uwbQBkercekSEbcfReXiAaWKaHXaZRFj
+2024-04-26 11:57:19.429 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:57:19.797 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:19.798 | INFO     | __main__:send_tx:95 - Signature: 2RZd4QdKSHxnt4D4HznjxhHg8N7vs6hrayNnAfWoVEiqfVcxTFCqdaSwNxYkgaBY8VWbGsyZiwVqo4ghkESkqVej
+2024-04-26 11:57:19.798 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999621423e-06
+2024-04-26 11:57:19.844 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:19.845 | INFO     | __main__:send_tx:95 - Signature: 4udq9Fh6MPJrB3DBko3RhuG1XN3EULkcUnH5Gs2veL8zVd39W4dN5T78uwbQBkercekSEbcfReXiAaWKaHXaZRFj
+2024-04-26 11:57:19.845 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:57:20.517 | SUCCESS  | src.storage.database:add_token:92 - New token (HktQmdGNaKqbi8aawneDQrUUpLMcqvbTzs1QPFzV8hGu) was successfuly inserted to database.
+2024-04-26 11:57:22.412 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:22.412 | INFO     | __main__:send_tx:95 - Signature: 4YHaGCdkodE6X1Cp7Hn4X8YW5hPwii2Uja7SE9V3wVbaULk7Pgaz6w4U3PF1EJZkMVAaYrcNgGZSf3R48wC9Rc5F
+2024-04-26 11:57:22.413 | INFO     | __main__:send_tx:96 - SWAP: 0.0001000000000015433
+2024-04-26 11:57:23.522 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 30
+2024-04-26 11:57:25.522 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:57:25.525 | INFO     | __main__:send_tx:101 - Signature: L6LK14mRW66Mjgx38rRExmBpdbfVUG9MCuBc5UB1FjFCAxKhvWYQQK7gtQX4oVsfZVn1oDb1876uVjnj8oxswy7
+2024-04-26 11:57:25.527 | INFO     | __main__:send_tx:102 - SWAP: 21.14685953899999
+2024-04-26 11:57:25.528 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='HktQmdGNaKqbi8aawneDQrUUpLMcqvbTzs1QPFzV8hGu'
+2024-04-26 11:57:25.528 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:57:25
+2024-04-26 11:57:29.253 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='C5RFp1fhNGdU2epHPk8nzDqGF1MBTF7VCJgYoDc5hCKL'
+2024-04-26 11:57:29.255 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:57:29
+2024-04-26 11:57:33.461 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:33.462 | INFO     | __main__:send_tx:95 - Signature: 4XWUcDiptJJoQbqZJcxXvGN4nTyGgSnVSA7gAcbUymnqqf3gaQ5iqAw6hkkg6PpxbABXXyHpNikFGHj21PHJFCjs
+2024-04-26 11:57:33.462 | INFO     | __main__:send_tx:96 - SWAP: 0.00019999999999953388
+2024-04-26 11:57:33.466 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:33.466 | INFO     | __main__:send_tx:95 - Signature: 4TEwkqahdYnk2nyRxHN7qa2LkQUwGZXAAytn1JZQBsMXnKSQSnmbJBabfgtR9D7fYRLfuxTDpNFRnUbJVWTXoC9R
+2024-04-26 11:57:33.467 | INFO     | __main__:send_tx:96 - SWAP: 0.0009999999999994458
+2024-04-26 11:57:33.731 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:33.731 | INFO     | __main__:send_tx:95 - Signature: 4XWUcDiptJJoQbqZJcxXvGN4nTyGgSnVSA7gAcbUymnqqf3gaQ5iqAw6hkkg6PpxbABXXyHpNikFGHj21PHJFCjs
+2024-04-26 11:57:33.732 | INFO     | __main__:send_tx:96 - SWAP: 0.00019999999999953388
+2024-04-26 11:57:33.735 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:33.735 | INFO     | __main__:send_tx:95 - Signature: 4TEwkqahdYnk2nyRxHN7qa2LkQUwGZXAAytn1JZQBsMXnKSQSnmbJBabfgtR9D7fYRLfuxTDpNFRnUbJVWTXoC9R
+2024-04-26 11:57:33.735 | INFO     | __main__:send_tx:96 - SWAP: 0.0009999999999994458
+2024-04-26 11:57:34.415 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:34.415 | INFO     | __main__:send_tx:95 - Signature: 4TEwkqahdYnk2nyRxHN7qa2LkQUwGZXAAytn1JZQBsMXnKSQSnmbJBabfgtR9D7fYRLfuxTDpNFRnUbJVWTXoC9R
+2024-04-26 11:57:34.415 | INFO     | __main__:send_tx:96 - SWAP: 0.0009999999999994458
+2024-04-26 11:57:34.418 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:34.418 | INFO     | __main__:send_tx:95 - Signature: 4XWUcDiptJJoQbqZJcxXvGN4nTyGgSnVSA7gAcbUymnqqf3gaQ5iqAw6hkkg6PpxbABXXyHpNikFGHj21PHJFCjs
+2024-04-26 11:57:34.419 | INFO     | __main__:send_tx:96 - SWAP: 0.00019999999999953388
+2024-04-26 11:57:34.900 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:34.901 | INFO     | __main__:send_tx:95 - Signature: 43gKNRL1sGS17MWypXVhrnCgEVotwLy8s82xEE1QjcQrSaAP7y3kDHVu3MVd4Z6H3QJvPxr84Gn8r8ct6MyEp6S1
+2024-04-26 11:57:34.902 | INFO     | __main__:send_tx:96 - SWAP: 0.0009999999999994458
+2024-04-26 11:57:36.957 | ERROR    | src.userbot.handlers:on_new_message_from_second_channel:55 - Can't find token in message text from SECOND channel.
+2024-04-26 11:57:41.591 | SUCCESS  | src.storage.database:add_token:92 - New token (HvfznJcusgpFkLxgZ5PPrvYgC9hfhig7uLDRVxXCxRUb) was successfuly inserted to database.
+2024-04-26 11:57:43.554 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 32
+2024-04-26 11:57:45.101 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:57:45.105 | INFO     | __main__:send_tx:101 - Signature: L6LK14mRW66Mjgx38rRExmBpdbfVUG9MCuBc5UB1FjFCAxKhvWYQQK7gtQX4oVsfZVn1oDb1876uVjnj8oxswy7
+2024-04-26 11:57:45.105 | INFO     | __main__:send_tx:102 - SWAP: 21.14685953899999
+2024-04-26 11:57:45.106 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='HvfznJcusgpFkLxgZ5PPrvYgC9hfhig7uLDRVxXCxRUb'
+2024-04-26 11:57:45.106 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:57:45
+2024-04-26 11:57:46.128 | SUCCESS  | src.storage.database:add_token:92 - New token (HvfznJcusgpFkLxgZ5PPrvYgC9hfhig7uLDRVxXCxRUb) was successfuly inserted to database.
+2024-04-26 11:57:47.685 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:47.686 | INFO     | __main__:send_tx:95 - Signature: 3evtEBoHUJnrmn5hE8zCxwMeNJumsiW1pHhYXtxsuYFoXLMAYJBnmidiNtjtBcgh9nui3HLuCgrogXdaT9tkZKz4
+2024-04-26 11:57:47.686 | INFO     | __main__:send_tx:96 - SWAP: 9.999999974752427e-06
+2024-04-26 11:57:48.332 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:48.333 | INFO     | __main__:send_tx:95 - Signature: 2wLkHuRMM3hUoaX59EYT4RsaxCaiCgrLSYWizjnxQkp6AgnGFeDdJiuN36prQRnWcm4t5rAAxdLRnMJS4okh47ZX
+2024-04-26 11:57:48.334 | INFO     | __main__:send_tx:96 - SWAP: 0.9899999999999949
+2024-04-26 11:57:48.486 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:48.487 | INFO     | __main__:send_tx:95 - Signature: 2wLkHuRMM3hUoaX59EYT4RsaxCaiCgrLSYWizjnxQkp6AgnGFeDdJiuN36prQRnWcm4t5rAAxdLRnMJS4okh47ZX
+2024-04-26 11:57:48.488 | INFO     | __main__:send_tx:96 - SWAP: 0.9899999999999949
+2024-04-26 11:57:49.139 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:49.140 | INFO     | __main__:send_tx:95 - Signature: Zj59Da38ak9HG23NLAGHUemaKxMLbtCYcSDZwB3af1im3u9mCZ5oRfmDEU1cV7Mrx71iLoDDcaNiqxACH9oSZn8
+2024-04-26 11:57:49.140 | INFO     | __main__:send_tx:96 - SWAP: 0.09900000000000375
+2024-04-26 11:57:49.217 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:49.217 | INFO     | __main__:send_tx:95 - Signature: 63i3huRhDmozo7E9dDGRqyZT71YneBLrEdokcqnTV7dZyBEvc5UQ2XWmNVPSetXXpzW4Z6kDzJvcD3qvorYSoy8q
+2024-04-26 11:57:49.218 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999621423e-05
+2024-04-26 11:57:49.469 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:49.470 | INFO     | __main__:send_tx:95 - Signature: 63i3huRhDmozo7E9dDGRqyZT71YneBLrEdokcqnTV7dZyBEvc5UQ2XWmNVPSetXXpzW4Z6kDzJvcD3qvorYSoy8q
+2024-04-26 11:57:49.470 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999621423e-05
+2024-04-26 11:57:49.487 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:49.488 | INFO     | __main__:send_tx:95 - Signature: Zj59Da38ak9HG23NLAGHUemaKxMLbtCYcSDZwB3af1im3u9mCZ5oRfmDEU1cV7Mrx71iLoDDcaNiqxACH9oSZn8
+2024-04-26 11:57:49.488 | INFO     | __main__:send_tx:96 - SWAP: 0.09900000000000375
+2024-04-26 11:57:49.783 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:49.784 | INFO     | __main__:send_tx:95 - Signature: 63i3huRhDmozo7E9dDGRqyZT71YneBLrEdokcqnTV7dZyBEvc5UQ2XWmNVPSetXXpzW4Z6kDzJvcD3qvorYSoy8q
+2024-04-26 11:57:49.784 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999621423e-05
+2024-04-26 11:57:50.168 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:50.169 | INFO     | __main__:send_tx:95 - Signature: Zj59Da38ak9HG23NLAGHUemaKxMLbtCYcSDZwB3af1im3u9mCZ5oRfmDEU1cV7Mrx71iLoDDcaNiqxACH9oSZn8
+2024-04-26 11:57:50.170 | INFO     | __main__:send_tx:96 - SWAP: 0.09900000000000375
+2024-04-26 11:57:50.296 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:50.296 | INFO     | __main__:send_tx:95 - Signature: 5DPdkqPYXgBtPAU1kiHwEL14tWVH9JtgaAZvTqNcb3vqDJxzq6DbgbAAQCVcUTHJ6tPcUsobSnyo88NM7ea7abye
+2024-04-26 11:57:50.297 | INFO     | __main__:send_tx:96 - SWAP: 2.5870750010000023
+2024-04-26 11:57:50.344 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:50.346 | INFO     | __main__:send_tx:95 - Signature: 51t4w8gAx6z6T56QodqvuPFHYsBnbW43xgEmbMWgXH3gmf276MZ2PUkQzruCGhNZHeV39C57ZpVMUhBKfSFsc1eA
+2024-04-26 11:57:50.346 | INFO     | __main__:send_tx:96 - SWAP: 0.0990000000000002
+2024-04-26 11:57:50.854 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:57:50.856 | INFO     | __main__:send_tx:101 - Signature: BkfDeNz5HYDPJ9mDXiFMNpVqPR55Gezst5WYDALjB1JiWTwBa9137tgEN7uWndqyjp9Sh5KrfprGHdzFVkHBAFj
+2024-04-26 11:57:50.856 | INFO     | __main__:send_tx:102 - SWAP: -2.6286007220000016
+2024-04-26 11:57:50.860 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:50.861 | INFO     | __main__:send_tx:95 - Signature: 2HBFn5MAKXdi7BNcNGVoDTSZQMJeCjtZvYWrrJ2y4DtnDGtwqJXPnJzq2qP2qRsMqY1f7qH72y3Qih5KvA4AJBtu
+2024-04-26 11:57:50.861 | INFO     | __main__:send_tx:96 - SWAP: 0.3960000000000008
+2024-04-26 11:57:52.486 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:52.487 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:52.487 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:52.495 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:52.496 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:52.497 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:52.521 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:52.522 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:52.523 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:52.784 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:52.785 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:52.785 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:52.845 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:52.846 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:52.847 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:52.889 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:52.890 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:52.891 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:53.351 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:53.352 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:53.353 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:53.401 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:53.401 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:53.402 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:53.478 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:53.479 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:53.480 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:53.572 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 34
+2024-04-26 11:57:53.709 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:53.710 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:53.711 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:53.756 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:53.775 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:53.775 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:53.794 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:53.795 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:53.796 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:54.985 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:57:54.986 | INFO     | __main__:send_tx:101 - Signature: L6LK14mRW66Mjgx38rRExmBpdbfVUG9MCuBc5UB1FjFCAxKhvWYQQK7gtQX4oVsfZVn1oDb1876uVjnj8oxswy7
+2024-04-26 11:57:54.986 | INFO     | __main__:send_tx:102 - SWAP: 21.14685953899999
+2024-04-26 11:57:54.987 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='HvfznJcusgpFkLxgZ5PPrvYgC9hfhig7uLDRVxXCxRUb'
+2024-04-26 11:57:54.987 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:57:54
+2024-04-26 11:57:56.304 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.305 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:56.306 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:56.330 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.331 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:56.332 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:56.340 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.341 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:56.341 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:56.613 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.614 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:56.615 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:56.633 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.634 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:56.634 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:56.640 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.641 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:56.641 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:56.813 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.813 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:56.814 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:56.845 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.846 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:56.846 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:56.891 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:56.891 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:56.892 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:57.337 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:57.338 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:57.339 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:57.371 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:57.371 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:57.371 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:57.378 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:57.378 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:57.379 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:59.293 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:59.293 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:59.294 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:59.333 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:59.333 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:59.334 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:59.337 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:59.337 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:59.338 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:57:59.578 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:59.578 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:57:59.579 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:57:59.623 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:59.624 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:57:59.624 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:57:59.627 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:57:59.627 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:57:59.628 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:58:00.006 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:00.006 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:58:00.007 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:58:00.050 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:00.051 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:58:00.052 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:58:00.055 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:00.056 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:58:00.057 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:58:00.684 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:00.685 | INFO     | __main__:send_tx:95 - Signature: 3arNMQoX3U14xSGkwCfSgpbwDQngGFCFayL9WMVDbFwXwDtTTz9r7NULjztyKbyEQjxjwUHeEYY5peNHLFYBmRfs
+2024-04-26 11:58:00.685 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:58:00.714 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:00.714 | INFO     | __main__:send_tx:95 - Signature: 4jsuXy3D5atfYDzoVjYW9bBParjGacrmkw8yBEUmsGB5NFeQuncR1TkmckdNgz2s9CpjbEwh9wYrCauyneRfR1Ev
+2024-04-26 11:58:00.714 | INFO     | __main__:send_tx:96 - SWAP: 0.20000000000000284
+2024-04-26 11:58:00.719 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:00.720 | INFO     | __main__:send_tx:95 - Signature: 5b5HYpmtkajvzeK3VVaYk9i5ipU2hhBh11SVkv83EVGP5eJWeFMFipHKMYjLcfhPrhjJM4d4LrJuPoLxZJK4Kc82
+2024-04-26 11:58:00.720 | INFO     | __main__:send_tx:96 - SWAP: 0.035000000000003695
+2024-04-26 11:58:01.662 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:01.663 | INFO     | __main__:send_tx:95 - Signature: 3yNbjDPWuwhj5H12UjkFtMsA3KjCtif1gpVP3M6Bh8TRxTB5TyHbmMTFU8urLdKgk6eDe5MxJAK7Ntrx9MD9mMwS
+2024-04-26 11:58:01.663 | INFO     | __main__:send_tx:96 - SWAP: 0.5
+2024-04-26 11:58:01.974 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:01.975 | INFO     | __main__:send_tx:95 - Signature: qhLgtbPrLGTetURkAit7Cx24Uq8HJR8wkMpBRHaDm288nKnd9zoNtWyLdo6Kro7gsHCvchsG7JcprxdUCrTmNMs
+2024-04-26 11:58:01.975 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:03.188 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.188 | INFO     | __main__:send_tx:95 - Signature: yT4mP1X4KQFzvnpJLbcNmsfJc19gs2iFJSfPdL8eZKJY5jNZti7hMy4CwNKznwbnu3ARA3BfvoN7rPSEEWo1GhZ
+2024-04-26 11:58:03.189 | INFO     | __main__:send_tx:96 - SWAP: 0.0020000000000024443
+2024-04-26 11:58:03.327 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.329 | INFO     | __main__:send_tx:95 - Signature: 3ZfJYwpuHWE84gbCZid2v3zsWt2GT53QseJzsRhkCrtmzqXXZX5aozZkMS5tW6ziP54UddHXBxpj4k9j3VRvNncm
+2024-04-26 11:58:03.329 | INFO     | __main__:send_tx:96 - SWAP: 1.5999999999999996
+2024-04-26 11:58:03.345 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.346 | INFO     | __main__:send_tx:95 - Signature: 3ZfJYwpuHWE84gbCZid2v3zsWt2GT53QseJzsRhkCrtmzqXXZX5aozZkMS5tW6ziP54UddHXBxpj4k9j3VRvNncm
+2024-04-26 11:58:03.347 | INFO     | __main__:send_tx:96 - SWAP: 1.5999999999999996
+2024-04-26 11:58:03.377 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.377 | INFO     | __main__:send_tx:95 - Signature: 5bKQwyT1JDSdZTcwSieWCfAzR4JB7SWtiPfY9F5yA2UQBHs2vrUUjwQ28MAWUGfbjumGfBr4Qdt6Y1DfBwjPRbwd
+2024-04-26 11:58:03.378 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:03.486 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.487 | INFO     | __main__:send_tx:95 - Signature: 2Ekv6UuSPV2UnQjBJcXD1QeSyZjc6Dp1q9pP4drpfMXB2BvDJTvXNQ2W7W5NbqMGoNt2L71VerT7Yjeu5cdGdjQT
+2024-04-26 11:58:03.487 | INFO     | __main__:send_tx:96 - SWAP: 3.0000000000000018
+2024-04-26 11:58:03.556 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.557 | INFO     | __main__:send_tx:95 - Signature: 2Ekv6UuSPV2UnQjBJcXD1QeSyZjc6Dp1q9pP4drpfMXB2BvDJTvXNQ2W7W5NbqMGoNt2L71VerT7Yjeu5cdGdjQT
+2024-04-26 11:58:03.557 | INFO     | __main__:send_tx:96 - SWAP: 3.0000000000000018
+2024-04-26 11:58:03.583 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.584 | INFO     | __main__:send_tx:95 - Signature: 5B14AxJdJjs1W2BX3DHwzceLB814Bxiu7JCPEmKY19ronk1HSGLACUvykgqrEkqeY7MXE7BGGRhdN6YhKz7cbFM9
+2024-04-26 11:58:03.584 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:03.609 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.609 | INFO     | __main__:send_tx:95 - Signature: 5bKQwyT1JDSdZTcwSieWCfAzR4JB7SWtiPfY9F5yA2UQBHs2vrUUjwQ28MAWUGfbjumGfBr4Qdt6Y1DfBwjPRbwd
+2024-04-26 11:58:03.610 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:03.644 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.645 | INFO     | __main__:send_tx:95 - Signature: 5B14AxJdJjs1W2BX3DHwzceLB814Bxiu7JCPEmKY19ronk1HSGLACUvykgqrEkqeY7MXE7BGGRhdN6YhKz7cbFM9
+2024-04-26 11:58:03.646 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:03.767 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.767 | INFO     | __main__:send_tx:95 - Signature: 2Ekv6UuSPV2UnQjBJcXD1QeSyZjc6Dp1q9pP4drpfMXB2BvDJTvXNQ2W7W5NbqMGoNt2L71VerT7Yjeu5cdGdjQT
+2024-04-26 11:58:03.768 | INFO     | __main__:send_tx:96 - SWAP: 3.0000000000000018
+2024-04-26 11:58:03.832 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.832 | INFO     | __main__:send_tx:95 - Signature: 2Ekv6UuSPV2UnQjBJcXD1QeSyZjc6Dp1q9pP4drpfMXB2BvDJTvXNQ2W7W5NbqMGoNt2L71VerT7Yjeu5cdGdjQT
+2024-04-26 11:58:03.833 | INFO     | __main__:send_tx:96 - SWAP: 3.0000000000000018
+2024-04-26 11:58:03.851 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.851 | INFO     | __main__:send_tx:95 - Signature: 5B14AxJdJjs1W2BX3DHwzceLB814Bxiu7JCPEmKY19ronk1HSGLACUvykgqrEkqeY7MXE7BGGRhdN6YhKz7cbFM9
+2024-04-26 11:58:03.852 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:03.975 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:03.976 | INFO     | __main__:send_tx:95 - Signature: 5B14AxJdJjs1W2BX3DHwzceLB814Bxiu7JCPEmKY19ronk1HSGLACUvykgqrEkqeY7MXE7BGGRhdN6YhKz7cbFM9
+2024-04-26 11:58:03.977 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:04.322 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:04.323 | INFO     | __main__:send_tx:95 - Signature: J2bQYvGRLizsttWZh1ZuA4RRJweXp3CqjNZd2C65rjmX1kHbkmLTvquMCQ8wTBdTg6EGdvATn2V5rtrVZfF7a4i
+2024-04-26 11:58:04.324 | INFO     | __main__:send_tx:96 - SWAP: 0.00999999999999801
+2024-04-26 11:58:04.376 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:04.377 | INFO     | __main__:send_tx:95 - Signature: 5PDJJZu49tundUx5ukeUpY7YDNoW5oBwfmtQBMGiC9FDMo1DxyLKZKAZRGXkkdP5wKxGunZtmnjTkJsQvHqus5z1
+2024-04-26 11:58:04.378 | INFO     | __main__:send_tx:96 - SWAP: 0.0002000000000066393
+2024-04-26 11:58:04.404 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:04.405 | INFO     | __main__:send_tx:95 - Signature: 2hbtk9XXU99M5xjEtSssNxS1qQX68JGdSKkEx9pgW7FEquAfxrcxk84wzGGQn6kWbCJvwQ7zSJz8xDWzLYBJSGsb
+2024-04-26 11:58:04.405 | INFO     | __main__:send_tx:96 - SWAP: 0.0009000000000014552
+2024-04-26 11:58:04.767 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:58:04.772 | INFO     | __main__:send_tx:101 - Signature: 4icCXvuQqe5Aw1vL6Q2YNPZuGpnFKJhYPf7vACMPRAs6GGvuVRKdc2toPCMr3K4X4QDvgKrAPnegnMLcNdQTFPZ1
+2024-04-26 11:58:04.772 | INFO     | __main__:send_tx:102 - SWAP: -2.987454448000001
+2024-04-26 11:58:04.814 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:58:04.815 | INFO     | __main__:send_tx:101 - Signature: 4icCXvuQqe5Aw1vL6Q2YNPZuGpnFKJhYPf7vACMPRAs6GGvuVRKdc2toPCMr3K4X4QDvgKrAPnegnMLcNdQTFPZ1
+2024-04-26 11:58:04.815 | INFO     | __main__:send_tx:102 - SWAP: -2.987454448000001
+2024-04-26 11:58:05.288 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:58:05.289 | INFO     | __main__:send_tx:101 - Signature: AvhmXE7dezXxDVHu9x69BXMfdR9xJT4vHzmwWfJ3CYgTHfNvGw9h5WqwisMQk1SaeAMaCaZPqSE7P5Wfz4JJrUj
+2024-04-26 11:58:05.289 | INFO     | __main__:send_tx:102 - SWAP: -1.5941427800000003
+2024-04-26 11:58:05.343 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:58:05.343 | INFO     | __main__:send_tx:101 - Signature: AvhmXE7dezXxDVHu9x69BXMfdR9xJT4vHzmwWfJ3CYgTHfNvGw9h5WqwisMQk1SaeAMaCaZPqSE7P5Wfz4JJrUj
+2024-04-26 11:58:05.344 | INFO     | __main__:send_tx:102 - SWAP: -1.5941427800000003
+2024-04-26 11:58:05.348 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.349 | INFO     | __main__:send_tx:95 - Signature: 44UmvtWk2DHYLoEyEZGEnvaeMiBHmHRcYTg1zrVWbfqQqJ2Ha5X9gvg7CZKhuHreJ48DKWduZQtTaNyy43denMFt
+2024-04-26 11:58:05.349 | INFO     | __main__:send_tx:96 - SWAP: 0.0009999999999994458
+2024-04-26 11:58:05.400 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.400 | INFO     | __main__:send_tx:95 - Signature: 44UmvtWk2DHYLoEyEZGEnvaeMiBHmHRcYTg1zrVWbfqQqJ2Ha5X9gvg7CZKhuHreJ48DKWduZQtTaNyy43denMFt
+2024-04-26 11:58:05.400 | INFO     | __main__:send_tx:96 - SWAP: 0.0009999999999994458
+2024-04-26 11:58:05.439 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.439 | INFO     | __main__:send_tx:95 - Signature: Mg9ChpqxbF5wFVc14t4FNmCDtqD2k9mqQRA5g1XYNPbdSR6CUGE5iQT1P5oDbdkiuBuDPsuQGnCQcrRyUp3r99s
+2024-04-26 11:58:05.440 | INFO     | __main__:send_tx:96 - SWAP: 0.05000000000000071
+2024-04-26 11:58:05.451 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.452 | INFO     | __main__:send_tx:95 - Signature: Mg9ChpqxbF5wFVc14t4FNmCDtqD2k9mqQRA5g1XYNPbdSR6CUGE5iQT1P5oDbdkiuBuDPsuQGnCQcrRyUp3r99s
+2024-04-26 11:58:05.453 | INFO     | __main__:send_tx:96 - SWAP: 0.05000000000000071
+2024-04-26 11:58:05.492 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.492 | INFO     | __main__:send_tx:95 - Signature: 5WrKiKejCnfJrWv4vBGDVKaJjCoxtbaotM9mhjhDDwHgyjFxbBqPjE9KcxjoUHttjjPqubw4HwqHESkysJqikvvC
+2024-04-26 11:58:05.493 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:05.514 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.515 | INFO     | __main__:send_tx:95 - Signature: 5siSq75bZv6ps93bAXvKy9vqW7AezMPWLeNveXRVc51UaMGFUXmoHhY8BtvTUk6VM25rzu7xbmDdUfK9Rje9VrWR
+2024-04-26 11:58:05.515 | INFO     | __main__:send_tx:96 - SWAP: 0.0008999999999996788
+2024-04-26 11:58:05.629 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.629 | INFO     | __main__:send_tx:95 - Signature: 5siSq75bZv6ps93bAXvKy9vqW7AezMPWLeNveXRVc51UaMGFUXmoHhY8BtvTUk6VM25rzu7xbmDdUfK9Rje9VrWR
+2024-04-26 11:58:05.630 | INFO     | __main__:send_tx:96 - SWAP: 0.0008999999999996788
+2024-04-26 11:58:05.648 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.649 | INFO     | __main__:send_tx:95 - Signature: 2VTeyGU8mPdVuBtTRJFpgURA22hSvQnCjrB8R8V6A9LDLvCGoiCQ2Mh1r7LJpwyM4VRhgzXTp8mXhN5Wpu6U41Az
+2024-04-26 11:58:05.649 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:05.684 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.685 | INFO     | __main__:send_tx:95 - Signature: 5WrKiKejCnfJrWv4vBGDVKaJjCoxtbaotM9mhjhDDwHgyjFxbBqPjE9KcxjoUHttjjPqubw4HwqHESkysJqikvvC
+2024-04-26 11:58:05.686 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:05.841 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.843 | INFO     | __main__:send_tx:95 - Signature: 2VTeyGU8mPdVuBtTRJFpgURA22hSvQnCjrB8R8V6A9LDLvCGoiCQ2Mh1r7LJpwyM4VRhgzXTp8mXhN5Wpu6U41Az
+2024-04-26 11:58:05.843 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:05.979 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:05.980 | INFO     | __main__:send_tx:95 - Signature: b2Ty7rozerP7zWUmACbKdGYeorsjjo5f3etuzuEb8TQkRB3n2RPNqonpPiycw5FwpzQoAMwheJ4uUt7wpqEDJF2
+2024-04-26 11:58:05.981 | INFO     | __main__:send_tx:96 - SWAP: 0.09924999999999784
+2024-04-26 11:58:07.017 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:07.017 | INFO     | __main__:send_tx:95 - Signature: 5E7TKkDsJHnG7CoQ3R9yc5YBm7gfwwYXHJ5GDfKXMrWuGaRhceAKwHjdbqbywVFkm3bvcRiFh16vHfwyxfXxg3Zu
+2024-04-26 11:58:07.018 | INFO     | __main__:send_tx:96 - SWAP: 0.009999999999990905
+2024-04-26 11:58:07.545 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:07.545 | INFO     | __main__:send_tx:95 - Signature: 5x8RZLAtNgT1uKmJW8hBpvmGmpMA293VNhdjrZ6s7Tw1qBwF14pm7mSHqvf8jte12qLBEcyL9UR5VLFuKfZbihFz
+2024-04-26 11:58:07.546 | INFO     | __main__:send_tx:96 - SWAP: 0.49499999999999744
+2024-04-26 11:58:07.603 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:07.604 | INFO     | __main__:send_tx:95 - Signature: cg55WPUz8X5ZTm6CA7rbLzZbgGY9u2Mu9D3XUgzHR43j9vbnVVuQs1uaHFeAbVftkbkfcmTYwgRce6iHfdYYF2B
+2024-04-26 11:58:07.604 | INFO     | __main__:send_tx:96 - SWAP: 1.5
+2024-04-26 11:58:07.792 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:07.792 | INFO     | __main__:send_tx:95 - Signature: cg55WPUz8X5ZTm6CA7rbLzZbgGY9u2Mu9D3XUgzHR43j9vbnVVuQs1uaHFeAbVftkbkfcmTYwgRce6iHfdYYF2B
+2024-04-26 11:58:07.793 | INFO     | __main__:send_tx:96 - SWAP: 1.5
+2024-04-26 11:58:07.856 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:07.857 | INFO     | __main__:send_tx:95 - Signature: 5x8RZLAtNgT1uKmJW8hBpvmGmpMA293VNhdjrZ6s7Tw1qBwF14pm7mSHqvf8jte12qLBEcyL9UR5VLFuKfZbihFz
+2024-04-26 11:58:07.857 | INFO     | __main__:send_tx:96 - SWAP: 0.49499999999999744
+2024-04-26 11:58:09.107 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:09.108 | INFO     | __main__:send_tx:95 - Signature: 4hizgkRNgmCmjDAoD2pmCPRfWdWRNzfTEN4bDfZbkoThHY6RqiVbdbiZvcZoWAQ3aLa6uTjtf7tWF74SRDYdSUD2
+2024-04-26 11:58:09.109 | INFO     | __main__:send_tx:96 - SWAP: 0.0010000000000012221
+2024-04-26 11:58:09.167 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:09.167 | INFO     | __main__:send_tx:95 - Signature: 4hizgkRNgmCmjDAoD2pmCPRfWdWRNzfTEN4bDfZbkoThHY6RqiVbdbiZvcZoWAQ3aLa6uTjtf7tWF74SRDYdSUD2
+2024-04-26 11:58:09.168 | INFO     | __main__:send_tx:96 - SWAP: 0.0010000000000012221
+2024-04-26 11:58:09.350 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:09.351 | INFO     | __main__:send_tx:95 - Signature: 4hizgkRNgmCmjDAoD2pmCPRfWdWRNzfTEN4bDfZbkoThHY6RqiVbdbiZvcZoWAQ3aLa6uTjtf7tWF74SRDYdSUD2
+2024-04-26 11:58:09.351 | INFO     | __main__:send_tx:96 - SWAP: 0.0010000000000012221
+2024-04-26 11:58:09.417 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:09.417 | INFO     | __main__:send_tx:95 - Signature: 4hizgkRNgmCmjDAoD2pmCPRfWdWRNzfTEN4bDfZbkoThHY6RqiVbdbiZvcZoWAQ3aLa6uTjtf7tWF74SRDYdSUD2
+2024-04-26 11:58:09.418 | INFO     | __main__:send_tx:96 - SWAP: 0.0010000000000012221
+2024-04-26 11:58:09.920 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:09.921 | INFO     | __main__:send_tx:95 - Signature: 4Aixeh3GWEbbzEc76p2Z74LdnfrjjFuUczM2PPxZixjdabDkCW5UAjkSdn8o8XfUVBYfqbHDGisTzw6ferv7oPGK
+2024-04-26 11:58:09.922 | INFO     | __main__:send_tx:96 - SWAP: 0.24749999999999517
+2024-04-26 11:58:10.173 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.174 | INFO     | __main__:send_tx:95 - Signature: 2DZkAoQa5uweDXTji1Lffy6bTvtY9Y6JAkMkyJtfU7JZ6iLoMNLPzGeYCYjqu2SbENHqLxjhWin7ajE83dPzYPk5
+2024-04-26 11:58:10.175 | INFO     | __main__:send_tx:96 - SWAP: 0.0001000000000015433
+2024-04-26 11:58:10.193 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.194 | INFO     | __main__:send_tx:95 - Signature: 2DZkAoQa5uweDXTji1Lffy6bTvtY9Y6JAkMkyJtfU7JZ6iLoMNLPzGeYCYjqu2SbENHqLxjhWin7ajE83dPzYPk5
+2024-04-26 11:58:10.194 | INFO     | __main__:send_tx:96 - SWAP: 0.0001000000000015433
+2024-04-26 11:58:10.202 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.203 | INFO     | __main__:send_tx:95 - Signature: 3YnEuuk6uzhFe2zRKf4BtCuBcutPRqbx1wtkqmGyEhMMLXVtbp4bLTJF4Z5m6fZtKK4ZgUNssVVH5LVDUpiuV2we
+2024-04-26 11:58:10.203 | INFO     | __main__:send_tx:96 - SWAP: 0.0004999999999988347
+2024-04-26 11:58:10.277 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.277 | INFO     | __main__:send_tx:95 - Signature: 3YnEuuk6uzhFe2zRKf4BtCuBcutPRqbx1wtkqmGyEhMMLXVtbp4bLTJF4Z5m6fZtKK4ZgUNssVVH5LVDUpiuV2we
+2024-04-26 11:58:10.277 | INFO     | __main__:send_tx:96 - SWAP: 0.0004999999999988347
+2024-04-26 11:58:10.318 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.318 | INFO     | __main__:send_tx:95 - Signature: hPEGqopizQS5gYa5NSJfVLur8UBY9osxBF284fEvKFh5UA59H16jP54RyqP7f4FsFypvAMbgkRhSbwY5kJBq5cB
+2024-04-26 11:58:10.318 | INFO     | __main__:send_tx:96 - SWAP: 0.0007000000000516593
+2024-04-26 11:58:10.595 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.595 | INFO     | __main__:send_tx:95 - Signature: 2uEcSM2rJftJvRMUzVKu4vaoVQWYQx6PkSCWoEP6XfzARLEEETFjtsXD8BqzS8u9YySTSfnPAjwqFxvNcvbQyXMU
+2024-04-26 11:58:10.596 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:10.704 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.705 | INFO     | __main__:send_tx:95 - Signature: 4eHBgEL6YXidyzpPFoBYuR7MCUSV6RSwRiSUKUuXHE8jEZAo7rcG3FoJkqRQWxcBsoxxaAjW7USMVHP3kxs69Aay
+2024-04-26 11:58:10.705 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:10.727 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.727 | INFO     | __main__:send_tx:95 - Signature: 4rXLmcwyWiZWJpFVnwDnp7CimqAZyPWJ6apKxrX1NUrpiaBDCVPhgDpPWipvamBbrcRd742ep4Y8pMGeY4PJrjLL
+2024-04-26 11:58:10.727 | INFO     | __main__:send_tx:96 - SWAP: 1.0
+2024-04-26 11:58:10.754 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:10.754 | INFO     | __main__:send_tx:95 - Signature: pRcxSsVyh298ypX8o93G8YBK1Jr7zw5DQ8VLJJBsjSmBYcvdotMecSTZUim1XMRSRta5ytnL3VXvYdAEJX86A5j
+2024-04-26 11:58:10.754 | INFO     | __main__:send_tx:96 - SWAP: 0.0009999999999763531
+2024-04-26 11:58:11.206 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:58:11.207 | INFO     | __main__:send_tx:101 - Signature: 2TpjRu8761xgygajBGgnez5pWwsFJKtrCxWHTHucy5FF7VReAFHGfitae1KVdXqSuQoRzTq95ND6MiSqaAXjYm4m
+2024-04-26 11:58:11.208 | INFO     | __main__:send_tx:102 - SWAP: -3.288664199000003
+2024-04-26 11:58:11.213 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.213 | INFO     | __main__:send_tx:95 - Signature: 5pmE93TsJ2ANBB4jTzcr7kkXxKzj6FA989kWar8k3zRs2tgT4LwtLcvboBeKYaweNWz673BWix7LNRRX7pf383Xu
+2024-04-26 11:58:11.213 | INFO     | __main__:send_tx:96 - SWAP: 3.1583587660000063
+2024-04-26 11:58:11.215 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.215 | INFO     | __main__:send_tx:95 - Signature: 419s3LDtG84gejndx5GFyASzaUhX26m4mavtAuMfzyuweNXmG6bGinQ1jwKmkhJC3tgSmxruV1WUEWAMhZDsZBmF
+2024-04-26 11:58:11.215 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:11.311 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.312 | INFO     | __main__:send_tx:95 - Signature: 4eHBgEL6YXidyzpPFoBYuR7MCUSV6RSwRiSUKUuXHE8jEZAo7rcG3FoJkqRQWxcBsoxxaAjW7USMVHP3kxs69Aay
+2024-04-26 11:58:11.312 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:11.316 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.316 | INFO     | __main__:send_tx:95 - Signature: 2uEcSM2rJftJvRMUzVKu4vaoVQWYQx6PkSCWoEP6XfzARLEEETFjtsXD8BqzS8u9YySTSfnPAjwqFxvNcvbQyXMU
+2024-04-26 11:58:11.316 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:11.320 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.321 | INFO     | __main__:send_tx:95 - Signature: 419s3LDtG84gejndx5GFyASzaUhX26m4mavtAuMfzyuweNXmG6bGinQ1jwKmkhJC3tgSmxruV1WUEWAMhZDsZBmF
+2024-04-26 11:58:11.321 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:11.535 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.535 | INFO     | __main__:send_tx:95 - Signature: 4qaLhF1LiHaoyV4hAEv7WD8P2ygwzGYChU4VMjQXdyoaXDXPEyR1aQZb3DVdZeZ3G1wbKD7tCwN5ZcDhV5wnDyb1
+2024-04-26 11:58:11.535 | INFO     | __main__:send_tx:96 - SWAP: 0.05000000000000071
+2024-04-26 11:58:11.807 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:58:11.807 | INFO     | __main__:send_tx:101 - Signature: 2TpjRu8761xgygajBGgnez5pWwsFJKtrCxWHTHucy5FF7VReAFHGfitae1KVdXqSuQoRzTq95ND6MiSqaAXjYm4m
+2024-04-26 11:58:11.808 | INFO     | __main__:send_tx:102 - SWAP: -3.288664199000003
+2024-04-26 11:58:11.815 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.815 | INFO     | __main__:send_tx:95 - Signature: 4rXLmcwyWiZWJpFVnwDnp7CimqAZyPWJ6apKxrX1NUrpiaBDCVPhgDpPWipvamBbrcRd742ep4Y8pMGeY4PJrjLL
+2024-04-26 11:58:11.816 | INFO     | __main__:send_tx:96 - SWAP: 1.0
+2024-04-26 11:58:11.818 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.818 | INFO     | __main__:send_tx:95 - Signature: 5pmE93TsJ2ANBB4jTzcr7kkXxKzj6FA989kWar8k3zRs2tgT4LwtLcvboBeKYaweNWz673BWix7LNRRX7pf383Xu
+2024-04-26 11:58:11.819 | INFO     | __main__:send_tx:96 - SWAP: 3.1583587660000063
+2024-04-26 11:58:11.820 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.821 | INFO     | __main__:send_tx:95 - Signature: UBzvGBgvXyktEy4tpSeYch4tpXKpnHK7TrBDjovz7H4vnzaTxHgjaM4c8oUq7W45Kx2itEnWdQRRvwDjom1pFb3
+2024-04-26 11:58:11.821 | INFO     | __main__:send_tx:96 - SWAP: 0
+2024-04-26 11:58:11.924 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.924 | INFO     | __main__:send_tx:95 - Signature: 4qaLhF1LiHaoyV4hAEv7WD8P2ygwzGYChU4VMjQXdyoaXDXPEyR1aQZb3DVdZeZ3G1wbKD7tCwN5ZcDhV5wnDyb1
+2024-04-26 11:58:11.925 | INFO     | __main__:send_tx:96 - SWAP: 0.05000000000000071
+2024-04-26 11:58:11.984 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.985 | INFO     | __main__:send_tx:95 - Signature: 3rqpvA8XADs5VnKD1YbF372fegBXfVNFxAJj3tCVDyMJZ9wQ7A7cf6ruQFaYNcZZcgLAKvqLrTEzJMuBwAqfxtar
+2024-04-26 11:58:11.985 | INFO     | __main__:send_tx:96 - SWAP: 0.0002999999999957481
+2024-04-26 11:58:11.990 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.991 | INFO     | __main__:send_tx:95 - Signature: 2o42bDS1MiSAmhzzs8rXEz4XaKbUxxy9Yo2BYADv6AKYLxqwmeHJ49sDVc5i9afSCwE1zr9dU4nU66avBsF6NLsp
+2024-04-26 11:58:11.991 | INFO     | __main__:send_tx:96 - SWAP: 0.0800000000000054
+2024-04-26 11:58:11.996 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:11.997 | INFO     | __main__:send_tx:95 - Signature: 5N5p2KqTSkk4X2r1qygi1Qs6QJVn7ovmHL8ZfqqAjfoe9gbG6HfNBZmAuukW3ec2CzJL7Gbs4FPkPNWfXPZqmZ6E
+2024-04-26 11:58:11.998 | INFO     | __main__:send_tx:96 - SWAP: 9.999999999976694e-05
+2024-04-26 11:58:12.223 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:12.223 | INFO     | __main__:send_tx:95 - Signature: 2h7Zry9RpntDa2nUQKPtQsvvvReyA3kwywquEEHnHSKuVuDGnA55Q51ayNneztvKakAsvJFxLUzAiWsznxGxCUGL
+2024-04-26 11:58:12.224 | INFO     | __main__:send_tx:96 - SWAP: 0.002000000000000668
+2024-04-26 11:58:12.255 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:12.255 | INFO     | __main__:send_tx:95 - Signature: 5MSXT94af1bA9ZRuHCcYozu3V65Ycw3sT7CbHSy9DAhqENQWqLqxt4S7SMVU45B1TTy8ig4eHDK8sezUTHdNk2sE
+2024-04-26 11:58:12.255 | INFO     | __main__:send_tx:96 - SWAP: 0.19999999999999574
+2024-04-26 11:58:12.306 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:12.306 | INFO     | __main__:send_tx:95 - Signature: 2h7Zry9RpntDa2nUQKPtQsvvvReyA3kwywquEEHnHSKuVuDGnA55Q51ayNneztvKakAsvJFxLUzAiWsznxGxCUGL
+2024-04-26 11:58:12.307 | INFO     | __main__:send_tx:96 - SWAP: 0.002000000000000668
+2024-04-26 11:58:12.512 | SUCCESS  | src.storage.database:add_token:92 - New token (5AzyhPPfY5owdCsgsXXLwmQC7t87UP3EeyTJYjVkp6Ee) was successfuly inserted to database.
+2024-04-26 11:58:12.547 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:12.547 | INFO     | __main__:send_tx:95 - Signature: 2h7Zry9RpntDa2nUQKPtQsvvvReyA3kwywquEEHnHSKuVuDGnA55Q51ayNneztvKakAsvJFxLUzAiWsznxGxCUGL
+2024-04-26 11:58:12.548 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:12.549 | INFO     | __main__:send_tx:95 - Signature: 5MSXT94af1bA9ZRuHCcYozu3V65Ycw3sT7CbHSy9DAhqENQWqLqxt4S7SMVU45B1TTy8ig4eHDK8sezUTHdNk2sE
+2024-04-26 11:58:12.549 | INFO     | __main__:send_tx:96 - SWAP: 0.19999999999999574
+2024-04-26 11:58:12.547 | INFO     | __main__:send_tx:96 - SWAP: 0.002000000000000668
+2024-04-26 11:58:12.551 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:12.552 | INFO     | __main__:send_tx:95 - Signature: 2h7Zry9RpntDa2nUQKPtQsvvvReyA3kwywquEEHnHSKuVuDGnA55Q51ayNneztvKakAsvJFxLUzAiWsznxGxCUGL
+2024-04-26 11:58:12.552 | INFO     | __main__:send_tx:96 - SWAP: 0.002000000000000668
+2024-04-26 11:58:13.601 | DEBUG    | src.tokens_handler:__add_tokens:44 - Start transaction handler in process 40
+2024-04-26 11:58:14.683 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:14.686 | INFO     | __main__:send_tx:95 - Signature: Tgw6PA3tLwGEopdCXMY3r6pmVGeWvdwNLNjhvssWtTbn2MEQTqEYC3etEcnShx9TvxUxjw1xcBjZx86DizrrzBa
+2024-04-26 11:58:14.686 | INFO     | __main__:send_tx:96 - SWAP: 0.019800000000003593
+2024-04-26 11:58:15.395 | SUCCESS  | __main__:send_tx:100 - Transaction satisfying the conditions.
+2024-04-26 11:58:15.396 | INFO     | __main__:send_tx:101 - Signature: L6LK14mRW66Mjgx38rRExmBpdbfVUG9MCuBc5UB1FjFCAxKhvWYQQK7gtQX4oVsfZVn1oDb1876uVjnj8oxswy7
+2024-04-26 11:58:15.396 | INFO     | __main__:send_tx:102 - SWAP: 21.14685953899999
+2024-04-26 11:58:15.397 | INFO     | __main__:scan_transactions:137 - Signatures scanning initiated, token='5AzyhPPfY5owdCsgsXXLwmQC7t87UP3EeyTJYjVkp6Ee'
+2024-04-26 11:58:15.397 | INFO     | __main__:scan_transactions:138 - Scanning start time is: 11:58:15
+^C2024-04-26 11:58:20.504 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.506 | INFO     | __main__:send_tx:95 - Signature: 53SvnKT6j9txVvsMmaBrUnSa2TbFCqYa2tHFbCvUgCwPkho3nf96WmwoEyZBRG9BsNeMb8RX16LNS2VLP1V8zBu8
+2024-04-26 11:58:20.507 | INFO     | __main__:send_tx:96 - SWAP: 0.3960000000000008
+2024-04-26 11:58:20.546 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.547 | INFO     | __main__:send_tx:95 - Signature: 4tHtqPLRUSnAxJ3CkLVMbcwCJiAv1W4o82dusPdd3f6vR54UaSnX44QBhRYcLbj125M6XqwT1n7d7XLnDCSkW64H
+2024-04-26 11:58:20.547 | INFO     | __main__:send_tx:96 - SWAP: 0.04999999999999716
+2024-04-26 11:58:20.562 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.562 | INFO     | __main__:send_tx:95 - Signature: 2NPfdLwsjv59ZNVLHz4CkPQ5sXFFqbaR2S6Fp9x9x62CJxQbJDUb2n9DYUf3gonZNUcE3kThsP3qUgUwr9e6HsaW
+2024-04-26 11:58:20.563 | INFO     | __main__:send_tx:96 - SWAP: 1.0
+2024-04-26 11:58:20.704 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.705 | INFO     | __main__:send_tx:95 - Signature: 25xqjtZHb5K5JDRKYnoY4u5LScpYGZDfUaScaSmURGuzC2UMHfyKQZXbsD7Trs1NaCndzKhBdn5VghpTZgP2tmFd
+2024-04-26 11:58:20.705 | INFO     | __main__:send_tx:96 - SWAP: 0.5
+2024-04-26 11:58:20.723 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.724 | INFO     | __main__:send_tx:95 - Signature: 4yu5ab5ddqSGKLsYf6XxgECfrfLqz6j2DaygsUiAVNsQsSKcjxRPNKB5DGoB1HKEthDd3LxzTsn1vNpReK4b5edH
+2024-04-26 11:58:20.725 | INFO     | __main__:send_tx:96 - SWAP: 1.9799999999999969
+2024-04-26 11:58:20.733 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.734 | INFO     | __main__:send_tx:95 - Signature: 3AGUWLgB82UaHBvJFkzQ1daopmiSbrTiehBfNincevRpkxStsYJfq8kfuwqhMJLw4rxJQynEQRe2AZZM5WcPwyF8
+2024-04-26 11:58:20.734 | INFO     | __main__:send_tx:96 - SWAP: 0.9801000000000002
+2024-04-26 11:58:20.767 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.768 | INFO     | __main__:send_tx:95 - Signature: 4tHtqPLRUSnAxJ3CkLVMbcwCJiAv1W4o82dusPdd3f6vR54UaSnX44QBhRYcLbj125M6XqwT1n7d7XLnDCSkW64H
+2024-04-26 11:58:20.769 | INFO     | __main__:send_tx:96 - SWAP: 0.04999999999999716
+2024-04-26 11:58:20.810 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.811 | INFO     | __main__:send_tx:95 - Signature: 4yu5ab5ddqSGKLsYf6XxgECfrfLqz6j2DaygsUiAVNsQsSKcjxRPNKB5DGoB1HKEthDd3LxzTsn1vNpReK4b5edH
+2024-04-26 11:58:20.811 | INFO     | __main__:send_tx:96 - SWAP: 1.9799999999999969
+2024-04-26 11:58:20.820 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.822 | INFO     | __main__:send_tx:95 - Signature: 53SvnKT6j9txVvsMmaBrUnSa2TbFCqYa2tHFbCvUgCwPkho3nf96WmwoEyZBRG9BsNeMb8RX16LNS2VLP1V8zBu8
+2024-04-26 11:58:20.822 | INFO     | __main__:send_tx:96 - SWAP: 0.3960000000000008
+2024-04-26 11:58:20.826 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:20.826 | INFO     | __main__:send_tx:95 - Signature: 3AGUWLgB82UaHBvJFkzQ1daopmiSbrTiehBfNincevRpkxStsYJfq8kfuwqhMJLw4rxJQynEQRe2AZZM5WcPwyF8
+2024-04-26 11:58:20.827 | INFO     | __main__:send_tx:96 - SWAP: 0.9801000000000002
+2024-04-26 11:58:21.104 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:21.105 | INFO     | __main__:send_tx:95 - Signature: 25xqjtZHb5K5JDRKYnoY4u5LScpYGZDfUaScaSmURGuzC2UMHfyKQZXbsD7Trs1NaCndzKhBdn5VghpTZgP2tmFd
+2024-04-26 11:58:21.106 | INFO     | __main__:send_tx:96 - SWAP: 0.5
+2024-04-26 11:58:21.145 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:21.145 | INFO     | __main__:send_tx:95 - Signature: tW8DYeksdDZgHWhxAcP37dp61EqUUUxVFUN3uo4orMm1QXwTZueHxycwTLt5UWZRRDZX2djBRviaT9FdXUuTjVS
+2024-04-26 11:58:21.146 | INFO     | __main__:send_tx:96 - SWAP: 3.0
+2024-04-26 11:58:21.158 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:21.158 | INFO     | __main__:send_tx:95 - Signature: 2NPfdLwsjv59ZNVLHz4CkPQ5sXFFqbaR2S6Fp9x9x62CJxQbJDUb2n9DYUf3gonZNUcE3kThsP3qUgUwr9e6HsaW
+2024-04-26 11:58:21.159 | INFO     | __main__:send_tx:96 - SWAP: 1.0
+2024-04-26 11:58:24.471 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:24.472 | INFO     | __main__:send_tx:95 - Signature: 53SvnKT6j9txVvsMmaBrUnSa2TbFCqYa2tHFbCvUgCwPkho3nf96WmwoEyZBRG9BsNeMb8RX16LNS2VLP1V8zBu8
+2024-04-26 11:58:24.473 | INFO     | __main__:send_tx:96 - SWAP: 0.3960000000000008
+2024-04-26 11:58:24.507 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:24.508 | INFO     | __main__:send_tx:95 - Signature: 25xqjtZHb5K5JDRKYnoY4u5LScpYGZDfUaScaSmURGuzC2UMHfyKQZXbsD7Trs1NaCndzKhBdn5VghpTZgP2tmFd
+2024-04-26 11:58:24.508 | INFO     | __main__:send_tx:96 - SWAP: 0.5
+2024-04-26 11:58:24.515 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:24.516 | INFO     | __main__:send_tx:95 - Signature: 4yu5ab5ddqSGKLsYf6XxgECfrfLqz6j2DaygsUiAVNsQsSKcjxRPNKB5DGoB1HKEthDd3LxzTsn1vNpReK4b5edH
+2024-04-26 11:58:24.516 | INFO     | __main__:send_tx:96 - SWAP: 1.9799999999999969
+2024-04-26 11:58:24.520 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:24.520 | INFO     | __main__:send_tx:95 - Signature: 4tHtqPLRUSnAxJ3CkLVMbcwCJiAv1W4o82dusPdd3f6vR54UaSnX44QBhRYcLbj125M6XqwT1n7d7XLnDCSkW64H
+2024-04-26 11:58:24.521 | INFO     | __main__:send_tx:96 - SWAP: 0.04999999999999716
+2024-04-26 11:58:24.527 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:24.527 | INFO     | __main__:send_tx:95 - Signature: 2NPfdLwsjv59ZNVLHz4CkPQ5sXFFqbaR2S6Fp9x9x62CJxQbJDUb2n9DYUf3gonZNUcE3kThsP3qUgUwr9e6HsaW
+2024-04-26 11:58:24.528 | INFO     | __main__:send_tx:96 - SWAP: 1.0
+2024-04-26 11:58:24.561 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:24.562 | INFO     | __main__:send_tx:95 - Signature: 3AGUWLgB82UaHBvJFkzQ1daopmiSbrTiehBfNincevRpkxStsYJfq8kfuwqhMJLw4rxJQynEQRe2AZZM5WcPwyF8
+2024-04-26 11:58:24.563 | INFO     | __main__:send_tx:96 - SWAP: 0.9801000000000002
+2024-04-26 11:58:24.577 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:24.578 | INFO     | __main__:send_tx:95 - Signature: tW8DYeksdDZgHWhxAcP37dp61EqUUUxVFUN3uo4orMm1QXwTZueHxycwTLt5UWZRRDZX2djBRviaT9FdXUuTjVS
+2024-04-26 11:58:24.578 | INFO     | __main__:send_tx:96 - SWAP: 3.0
+2024-04-26 11:58:25.063 | SUCCESS  | src.storage.database:add_token:92 - New token (5AzyhPPfY5owdCsgsXXLwmQC7t87UP3EeyTJYjVkp6Ee) was successfuly inserted to database.
+2024-04-26 11:58:25.733 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:25.735 | INFO     | __main__:send_tx:95 - Signature: 2H5bytfNmgFvnTQSMs7R87o8XaJgHwrGWDN7ks6VUeJrL4bYN14ztCoHzB3USC616ciJQjHa5ZutyHURyfSKi77h
+2024-04-26 11:58:25.736 | INFO     | __main__:send_tx:96 - SWAP: 0.0002000000000066393
+2024-04-26 11:58:25.796 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:25.796 | INFO     | __main__:send_tx:95 - Signature: hzXesFrsGSDytW64KZSCNDq7ofohgU8UieFBSZdpQ1jjwCvf1ovFqGoUiDaQHXTsAjHmSfnTWga4KeyNCQCaS15
+2024-04-26 11:58:25.797 | INFO     | __main__:send_tx:96 - SWAP: 0.3500000000000014
+2024-04-26 11:58:26.828 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:26.828 | INFO     | __main__:send_tx:95 - Signature: 2H5bytfNmgFvnTQSMs7R87o8XaJgHwrGWDN7ks6VUeJrL4bYN14ztCoHzB3USC616ciJQjHa5ZutyHURyfSKi77h
+2024-04-26 11:58:26.829 | INFO     | __main__:send_tx:96 - SWAP: 0.0002000000000066393
+2024-04-26 11:58:26.909 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:26.910 | INFO     | __main__:send_tx:95 - Signature: hzXesFrsGSDytW64KZSCNDq7ofohgU8UieFBSZdpQ1jjwCvf1ovFqGoUiDaQHXTsAjHmSfnTWga4KeyNCQCaS15
+2024-04-26 11:58:26.911 | INFO     | __main__:send_tx:96 - SWAP: 0.3500000000000014
+2024-04-26 11:58:27.146 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:27.147 | INFO     | __main__:send_tx:95 - Signature: hzXesFrsGSDytW64KZSCNDq7ofohgU8UieFBSZdpQ1jjwCvf1ovFqGoUiDaQHXTsAjHmSfnTWga4KeyNCQCaS15
+2024-04-26 11:58:27.148 | INFO     | __main__:send_tx:96 - SWAP: 0.3500000000000014
+2024-04-26 11:58:27.210 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:27.211 | INFO     | __main__:send_tx:95 - Signature: 2H5bytfNmgFvnTQSMs7R87o8XaJgHwrGWDN7ks6VUeJrL4bYN14ztCoHzB3USC616ciJQjHa5ZutyHURyfSKi77h
+2024-04-26 11:58:27.211 | INFO     | __main__:send_tx:96 - SWAP: 0.0002000000000066393
+2024-04-26 11:58:27.935 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:27.936 | INFO     | __main__:send_tx:95 - Signature: 3LrxkjCoRrtQDbvwV7uFUN9yMFHrQcc255NMRm25NwWfhvoUNFYrXaiKrgXM1gMqobp6AGyetJxEWncGtzLHDTuH
+2024-04-26 11:58:27.936 | INFO     | __main__:send_tx:96 - SWAP: 0.09923999999999467
+2024-04-26 11:58:28.080 | WARNING  | __main__:send_tx:93 - Transaction not satisfying the conditions, shouldn't be in range 0.0;5.0
+2024-04-26 11:58:28.080 | INFO     | __main__:send_tx:95 - Signature: 3uuxhmLUhPaFdiV8UidP6daAC1vVzwu2mxNR6qc8doka2Hmz1f1hx3zZEd8MVS9s1mqvVjgUCwVPQuxH9zLXPKJt
+2024-04-26 11:58:28.081 | INFO     | __main__:send_tx:96 - SWAP: 0.00019999999999953388
