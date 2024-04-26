@@ -1,0 +1,67 @@
+MYKEDYSON (https://solscan.io/token/27ZcxBcd4AXf1Cecpx65wpNRfsSUmfjfFZSAVhM3gVju)-SOL is on RAYDIUM
+
+ (https://raydium.io/)🏷 TOKEN
+Name: MYKE DYSON
+Image link
+ (https://bafkreiflcczu3nrdccytcymf4etpf4roptroaafmrkqyfsfbczmpf7olrq.ipfs.nftstorage.link/)Price: $0.00000049
+Market Cap: $491
+Liquidity: $982
+Total supply: 1.0B
+
+27ZcxBcd4AXf1Cecpx65wpNRfsSUmfjfFZSAVhM3gVju
+
+🛡 SECURITY
+Mutable metadata: NO
+Mint authority: NO
+Freeze authority: NO
+
+👥 HOLDERS
+25.79% - Raydium AMM
+ (https://solscan.io/account/5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1)24.03% - 4qG9...o5dq
+ (https://solscan.io/account/4qG94sXV9xSAwsM64KoMnj123xeoVLaWK8Cj141Xo5dq)23.99% - AsTf...naEe
+ (https://solscan.io/account/AsTfViQWB9ytYKtEjRTmnPGbyvYVCYjKB4owfT5GnaEe)23.93% - 8JE2...VhWE
+ (https://solscan.io/account/8JE2D7oKfqHKSqT52QMuqEitdNjiVPZn5fNykiW2VhWE)2.27% - oooE...2gk2
+
+ (https://solscan.io/account/oooEYsNtbAnQnkx6SMtVui9iwP4Eu3KuTGC6NAp2gk2)🟥 RATING  Risky
+74.2% token supply was sent to other addresses by the deployer
+$982.73 low liquidity
+0.5 ratio of market cap to liquidity
+
+BirdEye (https://birdeye.so/token/27ZcxBcd4AXf1Cecpx65wpNRfsSUmfjfFZSAVhM3gVju) | Raydium
+ (https://raydium.io/swap/?inputCurrency=sol&outputCurrency=27ZcxBcd4AXf1Cecpx65wpNRfsSUmfjfFZSAVhM3gVju&inputAmount=0&fixed=in)RugCheck (https://rugcheck.xyz/tokens/27ZcxBcd4AXf1Cecpx65wpNRfsSUmfjfFZSAVhM3gVju) | DexScreener (https://dexscreener.com/solana/27ZcxBcd4AXf1Cecpx65wpNRfsSUmfjfFZSAVhM3gVju) | Solscan
+
+ (https://solscan.io/token/27ZcxBcd4AXf1Cecpx65wpNRfsSUmfjfFZSAVhM3gVju)🚀 UniBot - The latest and fastest bot! (https://t.me/solana_unibot?start=r-clckr)
+{!}
+TRUMP (https://solscan.io/token/firZUS42cb5kqh5sykWusSX8QZF98XUWpo6u3UcUNCK)-SOL is on RAYDIUM
+
+ (https://raydium.io/)🏷 TOKEN
+Name: Trumpwifhat
+Image link
+ (https://arweave.net/aY_fQugyZd9K89517O-DdeizB14Y74_GDvx0fgJeDyI)Price: $0.00000865
+Market Cap: $62.3K
+Liquidity: $124.5K
+Total supply: 7.2B
+
+firZUS42cb5kqh5sykWusSX8QZF98XUWpo6u3UcUNCK
+
+🛡 SECURITY
+Mutable metadata: YES
+Mint authority: YES
+Freeze authority: NO
+
+👥 HOLDERS
+99.98% - Raydium AMM
+
+ (https://solscan.io/account/5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1)🟥 RATING  Risky
+Mint authority is active
+Mutable metadata
+$124531.25 good liquidity
+0.5 ratio of market cap to liquidity
+
+📖 DESCRIPTION
+Trumpwifhat
+
+BirdEye (https://birdeye.so/token/firZUS42cb5kqh5sykWusSX8QZF98XUWpo6u3UcUNCK) | Raydium
+ (https://raydium.io/swap/?inputCurrency=sol&outputCurrency=firZUS42cb5kqh5sykWusSX8QZF98XUWpo6u3UcUNCK&inputAmount=0&fixed=in)RugCheck (https://rugcheck.xyz/tokens/firZUS42cb5kqh5sykWusSX8QZF98XUWpo6u3UcUNCK) | DexScreener (https://dexscreener.com/solana/firZUS42cb5kqh5sykWusSX8QZF98XUWpo6u3UcUNCK) | Solscan
+
+ (https://solscan.io/token/firZUS42cb5kqh5sykWusSX8QZF98XUWpo6u3UcUNCK)💎 Bridge ETH to SOL effortlessly - Maestro Bot! (https://t.me/MaestroSniperBot?start=r-clckr)
